@@ -1,0 +1,12 @@
+.vscode/
+__pycache__
+.ipynb_checkpoints/
+.pytest_cache/
+*/__pycache__
+*.zip
+captions/*
+Flicker8k_Dataset/*
+Image_captioning-code/*
+prepared_data/*
+Screenshots/*
+*.jpg
